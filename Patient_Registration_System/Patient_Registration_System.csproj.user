@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\Admin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AdminReg.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\AdminSub.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Bill1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillSection.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillSub.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\BillSub1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PatientReg.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PatientReg1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PatientRegSub.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PatientRegSub1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Staff.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StaffReg.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StaffSignUp.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StaffSub.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Surgeries.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\Surgeries1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SurgeriesSub.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SurgeriesSub1.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AdminReg.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\AdminSub.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Bill1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillSection.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillSub.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\BillSub1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PatientReg.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PatientReg1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PatientRegSub.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\PatientRegSub1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Staff.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StaffReg.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StaffSignUp.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StaffSub.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Surgeries.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Surgeries1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SurgeriesSub.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SurgeriesSub1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,581 @@
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.AssemblyReference.cache
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.cache
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.lref
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.exe
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.deps.json
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.runtimeconfig.json
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.baml
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.baml
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.baml
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.g.resources
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfoInputs.cache
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfo.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CopyComplete
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\refint\Patient_Registration_System.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.genruntimeconfig.cache
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\ref\Patient_Registration_System.dll
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.baml
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.baml
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.g.cs
+C:\Users\user'\source\repos\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.exe
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.deps.json
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.runtimeconfig.json
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.cache
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.lref
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.g.resources
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\refint\Patient_Registration_System.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\ref\Patient_Registration_System.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.g.cs
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.baml
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.exe
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.deps.json
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.runtimeconfig.json
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.AssemblyReference.cache
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.cache
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.lref
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.baml
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.g.resources
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfoInputs.cache
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfo.cs
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CopyComplete
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\refint\Patient_Registration_System.dll
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.genruntimeconfig.cache
+C:\Users\user'\Downloads\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\ref\Patient_Registration_System.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.exe
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.deps.json
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.runtimeconfig.json
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.cache
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.lref
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.baml
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.g.resources
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CopyComplete
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\refint\Patient_Registration_System.dll
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\ref\Patient_Registration_System.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.AssemblyReference.cache
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg1.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries1.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.cache
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.lref
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\refint\Patient_Registration_System.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.exe
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.deps.json
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.runtimeconfig.json
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg1.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries1.baml
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.g.resources
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfoInputs.cache
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfo.cs
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CopyComplete
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.genruntimeconfig.cache
+C:\Users\user'\Downloads\new (1)\new\new\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\ref\Patient_Registration_System.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.exe
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.deps.json
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.runtimeconfig.json
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.AssemblyReference.cache
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminReg.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Bill1.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\BillSection.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\BillSub.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\BillSub1.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg1.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientRegSub.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientRegSub1.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries1.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\SurgeriesSub.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\SurgeriesSub1.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.cache
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System_MarkupCompile.lref
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\App.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Admin.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminReg.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\AdminSub.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Bill1.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\BillSection.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\BillSub.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\BillSub1.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientReg1.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientRegSub.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\PatientRegSub1.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Staff.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffReg.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSignUp.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\StaffSub.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\Surgeries1.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\SurgeriesSub.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Views\SurgeriesSub1.baml
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.g.resources
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfoInputs.cache
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.AssemblyInfo.cs
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CoreCompileInputs.cache
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.csproj.CopyComplete
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\refint\Patient_Registration_System.dll
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.pdb
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\Patient_Registration_System.genruntimeconfig.cache
+C:\Users\user'\Desktop\Patient_Registration_System\Patient_Registration_System\obj\Debug\net7.0-windows\ref\Patient_Registration_System.dll
